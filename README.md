@@ -12,10 +12,10 @@ Also increase the counter value on onClick.
 4. so after every for loop, we append the value to the right of "#".                                                         
 5. After 6 iterations the for loop will be exited and a random colour is generated.                                        
 
-#Hooks Used
+#Hooks Used                                                                                   
 useState 
 
-#Functions
+#Functions                                                                                          
 increment() - To increase the counter value                                                      
 changeColor() - To change colour of circle                           
 getRandomColor() - To change colour of circle                                     
