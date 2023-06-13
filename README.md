@@ -16,7 +16,7 @@ Also increase the counter value on onClick.
 useState 
 
 #Functions
-increment() - To increase the counter value,   
-changeColor() - To change colour of circle,  
-getRandomColor() - To change colour of circle, 
+increment() - To increase the counter value                                                      
+changeColor() - To change colour of circle                           
+getRandomColor() - To change colour of circle                                     
 FormatMe() - To make numbers less than 10 to two digit by appending 0 in its left
