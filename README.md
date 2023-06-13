@@ -6,11 +6,11 @@ In this project we change colour of circle when we click on "Change Color" butto
 Also increase the counter value on onClick.
 
 #Algorithm
-||1. First we declare a variable which containes hexadecimal charector string from (0 - 9) and (a - f)  ||,   
-2. As we know hexadecimal is combination of 6 character from these.  ||,   
-3. So we generate random 6 digits using a for loop and random method.  ||,             
-4. so after every for loop, we append the value to the right of "#".  ||,              
-5. After 6 iterations the for loop will be exited and a random colour is generated.  ||,            
+1. First we declare a variable which containes hexadecimal charector string from (0 - 9) and (a - f) .                         
+2. As we know hexadecimal is combination of 6 character from these.                                                
+3. So we generate random 6 digits using a for loop and random method.                                                        
+4. so after every for loop, we append the value to the right of "#".                                                         
+5. After 6 iterations the for loop will be exited and a random colour is generated.                                        
 
 #Hooks Used
 useState 
