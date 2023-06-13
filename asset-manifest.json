@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Circle_color_change/static/css/main.9aaefefa.css",
+    "main.js": "/Circle_color_change/static/js/main.a99111dc.js",
+    "static/js/787.142da1d4.chunk.js": "/Circle_color_change/static/js/787.142da1d4.chunk.js",
+    "index.html": "/Circle_color_change/index.html",
+    "main.9aaefefa.css.map": "/Circle_color_change/static/css/main.9aaefefa.css.map",
+    "main.a99111dc.js.map": "/Circle_color_change/static/js/main.a99111dc.js.map",
+    "787.142da1d4.chunk.js.map": "/Circle_color_change/static/js/787.142da1d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aaefefa.css",
+    "static/js/main.a99111dc.js"
+  ]
+}
